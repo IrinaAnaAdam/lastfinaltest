@@ -31,3 +31,4 @@ function sub(m,n){
     else
     {return n - m}
 }
+//vine avionul
