@@ -24,3 +24,10 @@ function mul(q, p){
     var z = q*p;
     return z;
 }
+
+function sub(m,n){
+    if (m>n){
+        return m - n}
+    else
+    {return n - m}
+}
