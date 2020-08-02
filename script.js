@@ -32,3 +32,6 @@ function sub(m,n){
     {return n - m}
 }
 //vine avionul
+//pppppppppppppppppppppppppppppppp
+//deargsvfdss
+///feragsfkdvjhcxgbzn
