@@ -17,3 +17,10 @@ var sum = arr.reduce(function(a, b)
     }, 0);
     return sum;
 }
+
+//change111111rfghnmhj
+
+function mul(q, p){
+    var z = q*p;
+    return z;
+}
